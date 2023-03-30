@@ -1,1 +1,1 @@
-An assistant program that receives print commands from the [Smart Cashier](https://play.google.com/store/apps/details?id=com.roidappz.smartcashier) Android app over the network and sends them directly to the default printer connected to your PC or Laptop
+An assistant program that receives print commands from the [Smart Cashier](https://www.smartcashier.store/) Android app over the network and sends them directly to the default printer connected to your PC or Laptop
